@@ -7,8 +7,11 @@ The program allows for 10 unique items to be added to the cart.
 A discount is factored into the cost for various quantities of a single item:
 
   1-4 = 0% discount
+  
   5-9 = 10% discount
+  
   10-14 = 15% discount
+  
   15+ = 20% discount
 
 Final price is calculated with a tax rate of 6%.
